@@ -1,4 +1,4 @@
-# CompSysProject
+# DynamicMemoryAllocator
 Computer Systems Semester Project, Stern College for Women, Yeshiva University, Fall 2021
 By: Sarina Kofman 
 
