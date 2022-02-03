@@ -2,7 +2,7 @@
 Computer Systems Semester Project, Stern College for Women, Yeshiva University, Fall 2021
 By: Sarina Kofman 
 
-This project is an implemntation of a dynamic memory allocator in C programming language.
+This project is an implementation of a dynamic memory allocator in C programming language.
 
 This code has been adapted from the following resources: 
 - http://www.sunshine2k.de/articles/coding/cmemalloc/cmemory.html
